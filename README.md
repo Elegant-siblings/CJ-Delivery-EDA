@@ -24,3 +24,7 @@ CJ-Delivery-EDA
 │   └── collect.json
 └── EDA.py or EDA.ipynb
 ``` 
+
+## 주의사항
+- 반드시 `branch` 생성 후 작업 할 것
+- `main`에 `push` 및 `PR` 금지
